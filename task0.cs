@@ -7,6 +7,7 @@ class name
 public static void Main(string[] args)
 {
 	Console.WriteLine("Need a lunch break");
+	Console.WriteLine("***");
 
 }
 }
